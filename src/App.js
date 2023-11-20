@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <h1>Deployed</h1>
         <p>
-          I'm deployed
+          I'm deployed by simple yml
         </p>
       </header>
     </div>
